@@ -1,1 +1,1 @@
-# Exercises-in-Data-Analysis-and-Python
+# This-Repository-Contains-Solutions-and-Implements-Version-Control-For-Stats-507-Assignments
